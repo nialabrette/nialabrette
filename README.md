@@ -1,4 +1,4 @@
-# Hello, y'all! 👋
+# Hello, friends! 👋
 
 I'm Nia! I'm a self-taught software engineer. Love front-end web development and I'm picking up design as well. Mom to a human and a cat.
 
