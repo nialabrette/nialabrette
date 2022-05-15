@@ -1,12 +1,12 @@
-# Hello, friends! 👋
+<!--HEADER-->
+![githuboption2 (2)](https://user-images.githubusercontent.com/83649458/168452269-4871297a-7858-4af3-9209-c5f90d63b41e.png)
+<h1 align="center">Hello, I'm Nia! 👋</h1>
+<p align="center">I'm a software engineer from Orlando, Florida with a passion for creativity and education. Feel free to take a look at my latest projects. I am currently available for new opportunities. If you need a web developer or a website made, please feel free to contact me.</p>
 
-I'm Nia! I'm a self-taught software engineer. Love front-end web development and I'm picking up design as well. Mom to a human and a cat.
 
-### 😄 Pronouns
-They/she
 
-### ⚡ One line that describes me best? 
-No such thing as trying too many things.
+
+
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/nia_codes) 
