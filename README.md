@@ -3,15 +3,26 @@
 <h1 align="center">Hello, I'm Nia! 👋</h1>
 <p align="center">I'm a software engineer from Orlando, Florida with a passion for creativity and education. Feel free to take a look at my latest projects. I am currently available for new opportunities. If you need a web developer or a website made, please feel free to contact me.</p>
 
+<!-- SOCIALS -->
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="https://nialabrette.com" target="_blank"><img src="https://img.shields.io/badge/Personal_Portfolio-blueviolet??style=plastic&logoColor=white" height=25/></a>
+  <a href="https://twitter.com/nia_codes"><img src="https://img.shields.io/badge/Twitter-blueviolet?&style=plastic&logo=twitter&logoColor=blue" height=25></a>
+  <a href="mailto:niajlabrette@gmail.com"><img src="https://img.shields.io/badge/Email-blueviolet?style=plastic&logo=gmail&logoColor=red" height=25></a>
+  <a href="https://www.linkedin.com/in/nialabrette/"><img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=plastic&logo=linkedin&logoColor=white" height=25></a>
+</p>
 
+<!--Technologies-->
+<h3 align="center">Technologies</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-blueviolet?style=plastic&logo=html5" height=25>
+<img src="https://img.shields.io/badge/CSS3-blueviolet?style=plastic&logo=css3" height=25>
+<img src="https://img.shields.io/badge/JavaScript-blueviolet?style=plastic&logo=javascript" height=25>
+<img src="https://img.shields.io/badge/MongoDB-blueviolet?style=plastic&logo=MongoDB" height=25>
+<img src="https://img.shields.io/badge/Express.js-blueviolet?style=plastic&logo=Express" height=25>
+<img src="https://img.shields.io/badge/React-blueviolet?style=plastic&logo=React" height=25>
+<img src="https://img.shields.io/badge/Node.js-blueviolet?style=plastic&logo=Node.js" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=plastic&logo=VisualStudio" height=25>
+</p>
 
-
-
-
-### 📫 How to reach me?
-- [Twitter](https://twitter.com/nia_codes) 
-- [LinkedIn](https://www.linkedin.com/in/nialabrette/) 
-- [My personal portfolio](http://nialabrette.com) 
-- [My personal blog](https://niacodes.hashnode.dev/)
-- [Twitch](https://www.twitch.tv/nia_victory)
 
