@@ -12,6 +12,12 @@
   <a href="https://www.linkedin.com/in/nialabrette/"><img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=plastic&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
+<!--Code Stats-->
+<h3 align="center">Code Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nialabrette&theme=monokai&date_format=j%20M%5B%20Y%5D">
+  </p>
+
 <!--Technologies-->
 <h3 align="center">Technologies</h3>
 <p align="center">
