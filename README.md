@@ -17,6 +17,24 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nialabrette&theme=monokai&date_format=j%20M%5B%20Y%5D">
   </p>
+	
+	
+	
+<h3 align="center">Technologies</h3>
+<p align="center">
+	<img src="https://img.shields.io/badge/HTML5-blueviolet?style=plastic&logo=html5" height=25>
+	<img src="https://img.shields.io/badge/CSS3-blueviolet?style=plastic&logo=css3" height=25>
+	<img src="https://img.shields.io/badge/JavaScript-blueviolet?style=plastic&logo=javascript" height=25>
+	<img src="https://img.shields.io/badge/MongoDB-blueviolet?style=plastic&logo=MongoDB" height=25>
+	<img src="https://img.shields.io/badge/Express.js-blueviolet?style=plastic&logo=Express" height=25>
+	<img src="https://img.shields.io/badge/React-blueviolet?style=plastic&logo=React" height=25>
+	<img src="https://img.shields.io/badge/Node.js-blueviolet?style=plastic&logo=Node.js" height=25>
+	<img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=plastic&logo=VisualStudio" height=25>
+</p>
+
+
+
+	
 
 <!-- PROJECTS -->
 
@@ -58,18 +76,3 @@
 			</td>
       
       
-<!--Technologies-->
-			
-<h3 align="center">Technologies</h3>
-<p align="center">
-	<img src="https://img.shields.io/badge/HTML5-blueviolet?style=plastic&logo=html5" height=25>
-	<img src="https://img.shields.io/badge/CSS3-blueviolet?style=plastic&logo=css3" height=25>
-	<img src="https://img.shields.io/badge/JavaScript-blueviolet?style=plastic&logo=javascript" height=25>
-	<img src="https://img.shields.io/badge/MongoDB-blueviolet?style=plastic&logo=MongoDB" height=25>
-	<img src="https://img.shields.io/badge/Express.js-blueviolet?style=plastic&logo=Express" height=25>
-	<img src="https://img.shields.io/badge/React-blueviolet?style=plastic&logo=React" height=25>
-	<img src="https://img.shields.io/badge/Node.js-blueviolet?style=plastic&logo=Node.js" height=25>
-	<img src="https://img.shields.io/badge/Visual_Studio-blueviolet?style=plastic&logo=VisualStudio" height=25>
-</p>
-
-
