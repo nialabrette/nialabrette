@@ -43,8 +43,24 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">Odin Recipes</h3>
+				<h3 align="center">Personal Portfolio</h3>
 				<div align="center" >  
+				<a href='https://github.com/nialabrette/personal_portfolio'>
+					<img src="https://user-images.githubusercontent.com/83649458/168513137-f87a1cbf-f447-4049-82be-6905b74db892.gif" alt="cocktail api" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/nialabrette/personal_portfolio" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github"/>
+					</a>  
+				</p>
+				<p><strong>HTML5, CSS3, JavaScript</strong> - My personal website showcasing projects I've completed</p>
+			</div>
+		</td>   
+			<td width="50%">
+				<h3 align="center">Odin Recipes</h3>
+				<div align="center">  
 					<a href='https://github.com/nialabrette/odin-recipes'>
 						<img src="https://user-images.githubusercontent.com/83649458/168505702-2667f8c1-abd5-4db0-aaa3-9b358d889deb.gif" alt="odin recipes" height="100%" />
 					</a>
@@ -58,7 +74,8 @@
 					<p><strong>HTML5, CSS3</strong> - Landing page for a colorful recipe site</p>
 				</div>
 			</td>
-			<td width="50%">
+			<tr>
+				<td width="50%">
 				<h3 align="center">Cocktail Api</h3>
 				<div align="center" >  
 					<a href='https://github.com/nialabrette/cocktail-api'>
@@ -74,21 +91,21 @@
 					<p><strong>HTML5, CSS3, JavaScript</strong> - Site using an api to help you decide what drinks to have!</p>
 				</div>
 			</td>
-    <tr>			
-     <td width="50%">
-			<h3 align="center">Personal Portfolio</h3>
+     	<td width="50%">
+			<h3 align="center">Wordle Clone</h3>
 			<div align="center" >  
-				<a href='https://github.com/nialabrette/personal_portfolio'>
-					<img src="https://user-images.githubusercontent.com/83649458/168513137-f87a1cbf-f447-4049-82be-6905b74db892.gif" alt="cocktail api" height="100%" />
+				<a href='https://github.com/nialabrette/wordle_clone'>
+					<img src="https://user-images.githubusercontent.com/83649458/168514592-205ac88c-be3f-4990-a873-6a3a7cf41b95.gif" alt="wordle" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/nialabrette/personal_portfolio" target="_blank">
+					<a href="https://github.com/nialabrette/wordle_clone" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github"/>
 					</a>  
 				</p>
-				<p><strong>HTML5, CSS3, JavaScript</strong> - Site using an api to help you decide what drinks to have!</p>
+				<p><strong>HTML5, CSS3, JavaScript, API</strong> - My version of Wordle that uses an api to retrieve a random word </p>
 			</div>
 		</td>   
+			
       
