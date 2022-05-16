@@ -40,64 +40,8 @@
 					<p><strong>HTML5, CSS3</strong> - Landing page for a colorful recipe site</p>
 				</div>
 			</td>
-      <td width="50%">
-				<h3 align="center">Cocktail Api</h3>
-				<div align="center" >  
-					<a href='https://github.com/nialabrette/cocktail-api>
-						<img src="https://user-images.githubusercontent.com/83649458/168506603-391228e9-8e85-420f-9e60-19b343492d62.gif" alt="cocktail-api-site" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/nialabrette/cocktail-api" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github"/>
-						</a>  
-					</p>
-					 <p><strong>HTML5, CSS3, JavaScript</strong> - Simple app to help you decide which drinks to make at your party!</p>
-				</div>
-	<tr>
-		<td width="50%">
-			<h3 align="center" color="white">Personal Portfolio</h2>
-			<div align="center" >  
-				<a href='https://sebastianospina.netlify.app'>
-					<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Porfolio/ezgif.com-gif-maker%20(1).gif" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/Ethodeus/ethodeus.github.io" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://sebastianospina.netlify.app" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-			</div>
-		</td>
-		<td width="50%">
-			<h3 align="center" color="white">Simple Calculator</h2>
-			<div align="center" >  
-				<a href='https://ethodeus.github.io/simple-calculator-project/'>
-					<img src="https://github.com/Ethodeus/readme-logos/blob/master/GitHub%20Profile/Project-images/Calculator/ezgif.com-gif-maker.gif" alt="Calculator" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/Ethodeus/simple-calculator-project" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://ethodeus.github.io/simple-calculator-project/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
-					</a>	
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - Simple calculator website as my first attempt to work with OOP.</p>
-			</div>	
-		</td>
-	</table>
-</div>
-<br />
-<br />
+      
+	
 
       
       
