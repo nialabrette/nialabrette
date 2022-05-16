@@ -74,5 +74,21 @@
 					<p><strong>HTML5, CSS3, JavaScript</strong> - Site using an api to help you decide what drinks to have!</p>
 				</div>
 			</td>
-      
+    <tr>			
+     <td width="50%">
+			<h3 align="center">Personal Portfolio</h3>
+			<div align="center" >  
+				<a href='https://github.com/nialabrette/personal_portfolio'>
+					<img src="https://user-images.githubusercontent.com/83649458/168513137-f87a1cbf-f447-4049-82be-6905b74db892.gif" alt="cocktail api" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/nialabrette/personal_portfolio" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github"/>
+					</a>  
+				</p>
+				<p><strong>HTML5, CSS3, JavaScript</strong> - Site using an api to help you decide what drinks to have!</p>
+			</div>
+		</td>   
       
