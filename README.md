@@ -40,6 +40,22 @@
 					<p><strong>HTML5, CSS3</strong> - Landing page for a colorful recipe site</p>
 				</div>
 			</td>
+			<td width="50%">
+				<h3 align="center">Cocktail Api</h3>
+				<div align="center" >  
+					<a href='https://github.com/nialabrette/cocktail-api'>
+						<img src="https://user-images.githubusercontent.com/83649458/168508480-f65de8b5-bc74-44a4-9b28-ab24df6f7e7d.gif" alt="cocktail api" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/nialabrette/cocktail-api" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-blueviolet?style=plastic&logo=github"/>
+						</a>  
+					</p>
+					<p><strong>HTML5, CSS3, JavaScript</strong> - Site using an api to help you decide what drinks to have!</p>
+				</div>
+			</td>
       
 	
 
